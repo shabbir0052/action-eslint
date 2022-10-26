@@ -15,6 +15,8 @@ Use particular version of node : nvm use 12.22.0 // this will change the version
 
 - configure eslint(create eslint config file) :- `npm run lint -- --init`
 
+    This will create .eslintrc.cjs file. You can replace the content of that file with the one in this repo
+
 - Run eslint :-`npx eslint '**/*{js,jsx,ts,tsx}'`
 
 - To do linting while developing the code in VS code you can also install ESLint Extension for vs code
