@@ -18,7 +18,7 @@ Use particular version of node : nvm use 12.22.0 // this will change the version
 - Run eslint :-`npx eslint '**/*{js,jsx,ts,tsx}'`
 
 - To do linting while developing the code in VS code you can also install ESLint Extension for vs code
-- Format the code while saving code add the following in your workspace settings file  
+- To format the code while saving code add the following in your workspace settings file  
    ` { "editor.codeActionsOnSave": { "source.fixAll.eslint": true }, "eslint.validate": ["javascript"] }`
 
 ESLint getting started can be found here
