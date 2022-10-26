@@ -7,6 +7,7 @@ module.exports = {
   ignorePatterns: [
     "**/UnitTest/*.js",
     "/bin/*.js",
+    "/lib/*.js",
     "**/logging/lib/*.js",
     "**/logging/test/*.js",
     "/.vscode/*",
