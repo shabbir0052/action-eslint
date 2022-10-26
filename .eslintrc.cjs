@@ -10,7 +10,7 @@ module.exports = {
     "/lib/*.js",
     "**/logging/lib/*.js",
     "**/logging/test/*.js",
-    "/.vscode/*",
+    "/.vscode/*.*",
   ],
   overrides: [
     {
