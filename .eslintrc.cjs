@@ -39,6 +39,8 @@ module.exports = {
         endOfLine: "auto",
       },
     ],
-    "no-restricted-imports": ["off", "aws-xray-sdk-core", "import2"],
+  },
+  settings: {
+    "import/core-modules": ["aws-sdk", "aws-xray-sdk-core"],
   },
 };
