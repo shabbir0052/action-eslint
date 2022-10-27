@@ -15,7 +15,7 @@ nvmw is one of such node mangager
 
 - configure eslint(create eslint config file) :- `npm run lint -- --init`
 
-    This will create .eslintrc.cjs file. You can replace the content of that file with the one in this repo
+    This will create .eslintrc.cjs file. You can replace the content of the file with the one in this repo
     
 - Dev dependecies listed in package.json file will be needed to configure eslint. If any of those dependecies are not installed while perfermoning above step install it mannually as dev dependencies    
 
