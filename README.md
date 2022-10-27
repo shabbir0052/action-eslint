@@ -5,7 +5,7 @@ nvmw is one of such node mangager
 
 To install particular version:- `nvm install 12.22.0`
 
-Use particular version of node : nvm use 12.22.0 // this will change the version of the node system wise using symlink
+Use particular version of node : `nvm use 12.22.0` // this will change the version of the node system wise using symlink
 
 - install eslint cli globally :- `npm -g i eslint-cli`
 
