@@ -46,6 +46,7 @@ Use particular version of node : nvm use 12.22.0 // this will change the version
 - Install the other dev dependencies mentioned in the package.json by running npm install
 
 - replace the content of .elintrc.cjs with the on provided in this repository
+    Customize the file as per requirement , like node modules which needs to be excluded or included
 
 - restat the vscode . In an   output tab in vscode you should see the following message
 
