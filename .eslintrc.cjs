@@ -48,6 +48,6 @@ module.exports = {
         semi: ["error", "always"]
     },
     settings: {
-        "import/core-modules": ["aws-sdk", "aws-xray-sdk-core","snowflake-sdk"],
+        "import/core-modules": ["aws-sdk", "aws-xray-sdk-core"],
     },    
 };
